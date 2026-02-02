@@ -267,8 +267,8 @@ window.AboutSection = function () {
            
            <div class="about-image">
               <div class="image-stack" id="about-slideshow">
-                 <div class="img-box primary slide active" style="background-image: url('./src/assets/images/cleaners_diamond_realistic_1770051442264.png');"></div>
-                 <div class="img-box primary slide" style="background-image: url('./src/assets/images/cleaner_sink_realistic_1770051457068.png');"></div>
+                 <div class="img-box primary slide active" style="background-image: url('./cleaners_diamond_realistic_1770051442264.png');"></div>
+                 <div class="img-box primary slide" style="background-image: url('./cleaner_sink_realistic_1770051457068.png');"></div>
                  <!-- Removed dark image as requested -->
                  <div class="img-box secondary"></div>
               </div>
@@ -505,6 +505,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   };
 });
+
 
 
 
